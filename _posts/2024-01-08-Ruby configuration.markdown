@@ -1,41 +1,42 @@
 ---
 layout: post
 title:  "Ruby configuration"
-date:   2024-01-08 21:04:50 +0530
+date:   2024-01-08 22:59:03 +0530
 categories: Terminal
 ---
 Jekyll Ruby configuration
 
-
+\
+\
 Install specific Ruby version
 ```javascript
 $ rbenv install 3.3.3
 ```
-
+\
 Set specific Ruby version globally
 ```javascript
 $ rbenv global 3.3.3
 ```
-
+\
 Check installed Ruby versions
 ```javascript
 $ rbenv versions
 ```
-
+\
 Check using Ruby version
 ```javascript
 $ ruby -v
 ```
-
+\
 Rehash needed after installing new Ruby version
 ```javascript
 $ rbenv rehash
 ```
-
-
-
-For the permission error...
-
+\
+\
+<br>
+# For the permission error...
+\
 Check path with which command
 ```javascript
 $ which ruby
@@ -44,18 +45,17 @@ $ which ruby
 $ which gem
 /usr/bin/gem 
 ```
-
-
+\
+\
 If the path is set to above, then run following command line on the terminal
 ```javascript
 [[ -d ~/.rbenv  ]] && \
   export PATH=${HOME}/.rbenv/bin:${PATH} && \
   eval "$(rbenv init -)"
 ```
-
-
-
-Check the path if it became rbenv
+\
+\
+Check the path if it became rbenv path
 ```javascript
 $ which ruby
 /Users/username/.rbenv/shims/ruby
