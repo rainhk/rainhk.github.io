@@ -56,8 +56,13 @@ If there is no available space or memory, you might need to copy everything to a
 ![runtime](/assets/images/runtime array linked.jpg)
 
 
-<!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].-->
-<!---->
-<!--[jekyll-docs]: https://jekyllrb.com/docs/home-->
-<!--[jekyll-gh]:   https://github.com/jekyll/jekyll-->
-<!--[jekyll-talk]: https://talk.jekyllrb.com/-->
+\
+\
+<br>
+## Recap
+- Computer's memory is like a giant set of drawers
+- With an array, all elements are stored right next to each other
+- WIth a list, elements are strewn all over, and one element stores the address of the next one
+- Arrays allow fast reads
+- Linked list allow fast inserts and deletes
+
