@@ -11,7 +11,7 @@ UE5 2nd project
 # Warehouse Wreckage
 
 ![2ndVideo](/assets/video/WarehouseWreckage - Unreal Editor 2024-01-15 20-39-05.mp4)
-
+Please wait a few seconds to load video!\
 ## On this project, I've learned...
 1. Basic physic concepts
 2. Spawning objects with desired spec using blueprint

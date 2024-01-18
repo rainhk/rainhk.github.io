@@ -12,6 +12,7 @@ UE5 3rd project
 This was a 3rd UE project to understand blueprint and programming with C++ .\
 \
 ![stack](/assets/video/ObstacleAssault - Unreal Editor 2024-01-15 21-03-05.mp4)
+Please wait a few seconds to load video!
 <br>
 
 ## On this project, I've learned...
